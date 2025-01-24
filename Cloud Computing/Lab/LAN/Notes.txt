@@ -1,0 +1,24 @@
+Local Area Network:
+
+HUB:
+Broadcast -> To all its devices -> Ports
+Not a smart device
+No Memory
+Layer 1 (Physical layer)
+Half duplex.
+Cheaper in price
+
+Switch:    ipConfig, ipconfig /all
+Broadcast -> X , Mac Address.
+dedicate memory space -> MAC Address table
+smart device compare to hub.
+Expensive-> compare to hub.
+full duplex
+Layer 2 
+
+Router: 
+Connect 2 LAN Network
+Layer 3
+Gateways
+
+
