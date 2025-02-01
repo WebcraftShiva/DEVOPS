@@ -1,0 +1,24 @@
+official site: https://www.netacad.com
+
+Cisco Packet tracer -> simulation tool -> Network -> Add device using cables and wires
+
+Device -> 5 Tabs 
+
+1) Physical Tab:
+The Physical tab provides an interface for interacting with the device including powering it on or off or installing different modules, such as a wireless network interface card (NIC).
+
+2) Config Tab:
+For intermediate devices such as routers and switches, there are two ways to access device configurations. Configurations can be accessed via a Config tab, which is a Graphical User Interface (GUI). Configurations can also be accessed using a command line interface (CLI).
+
+3) CLI Tab:
+The CLI tab provides access to the command line interface of a Cisco device. Using the CLI tab requires knowledge of device configuration with IOS.
+
+4) Desktop Tab:
+For some end devices, such as PCs and laptops, Packet Tracer provides a desktop interface that gives you access to IP configuration, wireless configuration, a command prompt, a web browser, and other applications.
+
+5) Services Tab:
+A server has all of the functions of a host with the addition of one more tab, the Services tab. This tab allows a server to be configured with common server processes such as HTTP, DHCP, DNS, or other services.
+
+INSTALLATION LINK:
+https://www.computernetworkingnotes.com/ccna-study-guide/download-packet-tracer-for-windows-and-linux.html
+
