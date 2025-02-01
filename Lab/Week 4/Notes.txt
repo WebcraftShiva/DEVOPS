@@ -1,0 +1,29 @@
+Network Protocols:
+
+* DHCP (Dynamic Hosting Configuration Protocol)
+
+- Assign automatically IP address, subnet mask, gateways and other networking configuration.
+   ----> To devices
+
+- Working:
+
+	- First client send DHCP dicover message to locate a DHCP server
+	- DHCP server responds with a DHCP offer message, offering available IP address
+	- client response with DHCP Request message, requesting the offered IP
+	- server sends a DHCP pack message, confirming the lease of the IP address
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+
+* DNS (Domain Name System)
+
+- Translates human-redable domain names (Ex: www.instagram.com) into IP addresses (Ex: 157.240.11.174)
+- Advantage user don't have to remember complex numberical IP Address.
+
+- Working:
+
+	- User Request: www.instagram.com in their browser.
+	- The device sends a request to the DNS server asking for the IP address of www.instagram.com
+	- DNS server checks its record and responds with the corresponding IP address.
+	- The device recives the returned IP address that DNS give and then establish a connection with www.google.com
+
